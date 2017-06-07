@@ -3,5 +3,7 @@
  */
 public class AddAClass {
 
-    private  void method(){}
+    private  void method(){
+        Object sout;
+    }
 }
