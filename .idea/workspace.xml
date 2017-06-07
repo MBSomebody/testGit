@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/AddAClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="408">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -57,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/add.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AddAClass.java" />
       </list>
     </option>
   </component>
@@ -469,15 +470,15 @@
       <created>1496842105560</created>
       <option name="number" value="Default" />
       <updated>1496842105560</updated>
-      <workItem from="1496842109220" duration="998000" />
+      <workItem from="1496842109220" duration="1495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="998000" />
+    <option name="totallyTimeSpent" value="1495000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -556,7 +557,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/AddAClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="408">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding />
         </state>
       </provider>
